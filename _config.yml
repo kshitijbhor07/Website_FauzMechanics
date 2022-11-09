@@ -1,0 +1,5 @@
+name: FauzMechanics Site
+
+markdown: kramdown
+kramdown:
+  input: GFM
